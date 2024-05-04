@@ -2,7 +2,7 @@
 D is a language, where code often just works. You don't need to read docs thoroughly, rather work with it by pure intuition. But sometimes there is a shorter way, which you'll never guess if you don't know. So there is a humble collection of such places.
 
 >[!NOTE]
->Know something interesting? PRs are welcomed :)
+>Know something interesting? PRs are welcome.d :)
 
 ## Attributes can be inferred
 Let's imagine, you have a good old top-level function:
